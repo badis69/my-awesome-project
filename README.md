@@ -8,4 +8,6 @@ This awesome project is created to experiment git notions like clone, push and p
 J'aimerais ajouter quelques ligne
 1 ou 2 je m'en fou
 ou bien meme 3
-aller une 4eme
+
+
+J'ai rien compris a git c'est horrible 
